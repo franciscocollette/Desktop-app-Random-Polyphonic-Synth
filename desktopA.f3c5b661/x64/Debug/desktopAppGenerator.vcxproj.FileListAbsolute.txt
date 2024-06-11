@@ -1,0 +1,3 @@
+D:\maynooth\music system progr 2\desktopAppGenerator\desktopA.f3c5b661\x64\Debug\desktopAppGenerator.vcxproj.AssemblyReference.cache
+D:\maynooth\music system progr 2\desktopAppGenerator\desktopA.f3c5b661\x64\Debug\desktopAppGenerator.Form1.resources
+D:\maynooth\music system progr 2\desktopAppGenerator\desktopA.f3c5b661\x64\Debug\desktopAppGenerator.vcxproj.GenerateResource.cache

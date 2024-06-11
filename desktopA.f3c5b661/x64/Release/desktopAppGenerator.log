@@ -1,0 +1,12 @@
+﻿  CppCLR_WinFormsProject.cpp
+D:\maynooth\music system progr 2\desktopAppGenerator\OscPoly.h(38,27): warning C4018: '<': signed/unsigned mismatch
+D:\maynooth\music system progr 2\desktopAppGenerator\OscPoly.h(60,27): warning C4018: '<': signed/unsigned mismatch
+D:\maynooth\music system progr 2\desktopAppGenerator\OscPoly.h(75,27): warning C4018: '<': signed/unsigned mismatch
+D:\maynooth\music system progr 2\desktopAppGenerator\OscPoly.h(86,27): warning C4018: '<': signed/unsigned mismatch
+D:\maynooth\music system progr 2\desktopAppGenerator\selectOsc.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\maynooth\music system progr 2\desktopAppGenerator\selectOsc.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\maynooth\music system progr 2\desktopAppGenerator\NewNote.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\maynooth\music system progr 2\desktopAppGenerator\NewNote.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+processEverything.obj : warning LNK4248: unresolved typeref token (0100001E) for 'SNDFILE_tag'; image may not run
+  desktopAppGenerator.vcxproj -> D:\maynooth\music system progr 2\desktopAppGenerator\x64\Release\desktopAppGenerator.exe
